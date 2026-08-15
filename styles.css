@@ -1,0 +1,38 @@
+.google-sans {
+  font-family: "Google Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 450;
+  font-style: normal;
+  font-variation-settings:
+    "GRAD" 0;
+}
+
+footer{
+    background-color: #f2f2f2;
+}
+
+header{
+    background-color: #ddd;
+}
+
+body > *{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 0;
+}
+
+h1 {margin: 0;}
+h2 {margin: 0;}
+
+table {
+    margin: 20px auto; 
+    border-collapse: collapse; 
+}
+
+td {
+    width: 30vw;
+    height: 35px; 
+    font-size: 18px;
+    border: 1px solid #333;
+    padding: 5px;
+}
